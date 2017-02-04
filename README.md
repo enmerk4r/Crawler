@@ -32,4 +32,4 @@ Required libraries:
 ![](Villa Savoye.jpg)
 
 - Pablo Picasso:
-![](Pivasso.jpg)
+![](Picasso.jpg)
